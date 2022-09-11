@@ -1,7 +1,7 @@
 {
-  "name": "article-preview-component",
+  "name": "fem-four-card-feature-section",
   "version": "1.0.0",
-  "description": "![Design preview for the Article preview component coding challenge](./design/desktop-preview.jpg)",
+  "description": "![Design preview for the fem-four-card-feature-section coding challenge](./design/desktop-preview.jpg)",
   "main": "index.js",
   "scripts": {
     "watch:sass": "node-sass sass/main.scss dist/main.css -w",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/osmannurierdogan/article-preview-component.git"
+    "url": "git+https://github.com/osmannurierdogan/fem-four-card-feature-section.git"
   },
   "keywords": [],
   "author": "Osman Nuri Erdogan",
@@ -24,9 +24,9 @@
     "last 10 versions"
   ],
   "bugs": {
-    "url": "https://github.com/osmannurierdogan/article-preview-component/issues"
+    "url": "https://github.com/osmannurierdogan/fem-four-card-feature-section/issues"
   },
-  "homepage": "https://github.com/osmannurierdogan/article-preview-component#readme",
+  "homepage": "https://github.com/osmannurierdogan/fem-four-card-feature-section#readme",
   "dependencies": {
     "autoprefixer": "^9.8.8",
     "concat": "^1.0.3",
